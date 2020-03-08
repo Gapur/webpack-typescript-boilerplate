@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "esnext",
+    "module": "es6",
+    "jsx": "react",
+    "baseUrl": "./src",
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
