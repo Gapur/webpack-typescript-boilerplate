@@ -2,7 +2,7 @@
 
 Setting up a React + TypeScript + SASS + Webpack and Babel project
 
-![webpack-typescript-boilerplate](/src/example.gif)
+![webpack-typescript-boilerplate](/public/example.gif)
 
 # Installation
 We use npm in this project. The easiest way to install it from npm and run it from your terminal.
