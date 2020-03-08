@@ -1,5 +1,7 @@
 import React from 'react';
 
+import "./app.scss";
+
 export default function App() {
-  return <h1>Hello, world!</h1>;
+  return <span className="title">Hello, world!</span>;
 }
